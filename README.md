@@ -122,6 +122,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## ✉️ Contact
 
-* **Pedro Victor Lima** - [My LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinusername)
+* **Pedro Victor Lima** - [My LinkedIn Profile](www.linkedin.com/in/pedro-victor-lima-894361141)
 
 ---
